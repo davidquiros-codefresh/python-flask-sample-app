@@ -18,7 +18,7 @@ To run unit tests inside the container execute:
 
 ## Original Readme
 
-MiniTwit 
+MiniTwit
 
 because writing todo lists is not fun
 
